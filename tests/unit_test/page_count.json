@@ -1,0 +1,4 @@
+[
+  {"description": "ten items, five per page", "items": 10, "perPage": 5, "expected": 2},
+  {"description": "twenty items, four per page", "items": 20, "perPage": 4, "expected": 5}
+]
